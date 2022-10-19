@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<product>
+<company>
   <title>Between Frames</title>
   <release-date></release-date>
   <website></website>
@@ -121,4 +121,4 @@
       <link></link>
     </contact>
   </contacts>
-</product>
+</company>
