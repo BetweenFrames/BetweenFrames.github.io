@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
-  <title></title>
+  <title>Between Frames</title>
   <release-date></release-date>
   <website></website>
 
@@ -21,10 +21,12 @@
     </price>
   </prices>
 
-  <description></description>
+  <description>
+    Between Frames is a platform puzzle game using unique film-media based mechanics to tell the story of an old man's grief.
+  </description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <history>Between Frames started as the capstone final project for a group of games and interactivity and software engineering students at Swinburne University of Technology in Melbourne, Australia. Initially the game was simply an idea about using film mechanics to make interesting 2D level manipulation puzzles, but eventually grew to encompass a narrative about processing grief through art.</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -37,25 +39,19 @@
   -->
 
   <features>
-    <feature></feature>
+    <feature>Unique mechanics designed around movie making techniques.</feature>
+    <feature>Levels designed to incorporate metaphor in every detail.</feature>
   </features>
 
   <trailers>
     <trailer>
-      <name></name>
-
-      <!-- Pick one: -->
-      <youtube>
-        <!-- Video ID only, not the full URL -->
-      </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
+      <name>Teaser Trailer</name>
+      <youtube>9ldxNlEpzzo</youtube>
     </trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
-  <widgets>
+    <widgets>
     <steam>
       <!-- Steam ID -->
       <!-- e.g. 424242 -->
