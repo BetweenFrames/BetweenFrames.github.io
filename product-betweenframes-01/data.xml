@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Between Frames</title>
-  <release-date>TBD</release-date>
+  <release-date>Soon</release-date>
   <website></website>
 
 
@@ -19,11 +19,13 @@
   </prices>
 
   <description>
-    Between Frames is a platform puzzle game using unique film-media based mechanics to tell the story of an old man's grief.
+  Between Frames is a platform puzzle game using unique film-media based mechanics to tell the story of an old man's grief.
   </description>
 
 
-  <history>Between Frames started as the capstone final project for a group of games and interactivity and software engineering students at Swinburne University of Technology in Melbourne, Australia. Initially the game was simply an idea about using film mechanics to make interesting 2D level manipulation puzzles, but eventually grew to encompass a narrative about processing grief through art.</history>
+  <history>
+  Between Frames started as the capstone final project for a group of games and interactivity and software engineering students at Swinburne University of Technology in Melbourne, Australia. Initially the game was simply an idea about using film mechanics to make interesting 2D level manipulation puzzles, but eventually grew to encompass a narrative about processing grief through art.
+  </history>
 
   <features>
     <feature>Unique mechanics designed around movie making techniques.</feature>
@@ -37,15 +39,8 @@
     </trailer>
   </trailers>
 
-  <!-- You can set your widgets here (optional): -->
-  <widgets>
-    <itch>
-      <!-- itch.io ID -->
-      <!-- e.g. 42424 -->
-    </itch>
-  </widgets>
-
-
+  <!-- vvv You can set your widgets here vvv (optional): -->
+  <!-- ================================================= -->
   <quotes>
     <quote>
       <description></description>
@@ -60,9 +55,6 @@
     <credit>
       <person></person>
       <role></role>
-
-      <!-- Optional: -->
-      <website></website>
     </credit>
   </credits>
 
