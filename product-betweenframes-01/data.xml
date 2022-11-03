@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Between Frames</title>
-  <release-date></release-date>
+  <release-date>TBD</release-date>
   <website></website>
 
-  <!-- Link to request press copy: -->
-  <press-copy-request></press-copy-request>
 
   <platforms>
     <platform>
-      <name></name>
+      <name>Itch.io</name>
       <link></link>
     </platform>
   </platforms>
 
   <prices>
     <price>
-      <currency></currency>
-      <value></value>
+      <value>Free!</value>
     </price>
   </prices>
 
@@ -25,18 +22,8 @@
     Between Frames is a platform puzzle game using unique film-media based mechanics to tell the story of an old man's grief.
   </description>
 
-  <!-- Choose between a single block: -->
-  <history>Between Frames started as the capstone final project for a group of games and interactivity and software engineering students at Swinburne University of Technology in Melbourne, Australia. Initially the game was simply an idea about using film mechanics to make interesting 2D level manipulation puzzles, but eventually grew to encompass a narrative about processing grief through art.</history>
 
-  <!-- Or multiple blocks: -->
-  <!--
-  <histories>
-    <history>
-      <header></header>
-      <text></text>
-    </history>
-  </histories>
-  -->
+  <history>Between Frames started as the capstone final project for a group of games and interactivity and software engineering students at Swinburne University of Technology in Melbourne, Australia. Initially the game was simply an idea about using film mechanics to make interesting 2D level manipulation puzzles, but eventually grew to encompass a narrative about processing grief through art.</history>
 
   <features>
     <feature>Unique mechanics designed around movie making techniques.</feature>
@@ -51,35 +38,13 @@
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
-    <widgets>
-    <steam>
-      <!-- Steam ID -->
-      <!-- e.g. 424242 -->
-    </steam>
-    <humble>
-      <!-- Humble Bundle product/id -->
-      <!-- e.g. mysupergame/42AAbB42dC -->
-    </humble>
+  <widgets>
     <itch>
       <!-- itch.io ID -->
       <!-- e.g. 42424 -->
     </itch>
-    <gamejolt>
-      <!-- Game Jolt package ID -->
-      <!-- e.g. 4AbCd2Ef -->
-    </gamejolt>
-    <bandcamp>
-      <!-- Bandcamp ID -->
-      <!-- e.g. 4242424242 -->
-    </bandcamp>
   </widgets>
 
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
 
   <quotes>
     <quote>
@@ -90,13 +55,6 @@
     </quote>
   </quotes>
 
-  <additionals>
-    <additional>
-      <title></title>
-      <description></description>
-      <link></link>
-    </additional>
-  </additionals>
 
   <credits>
     <credit>
@@ -108,13 +66,4 @@
     </credit>
   </credits>
 
-  <contacts>
-    <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
-    </contact>
-  </contacts>
 </product>
