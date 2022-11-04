@@ -54,12 +54,20 @@
     <quote>
       <description>"There is no feeling more satisfying than watching a player have their eureka moment."</description>
       <name>Jackson Bloomfield</name>
+    </quote>
+    <quote>
       <description>"Three years of experience and study culminated into a tangible project. Except this time, I donned a pair of binoculars and a megaphone to work with."</description>
       <name>Tony Lam</name>
+    </quote>
+    <quote>
       <description>"What it feels like to chew 5 gum"</description>
       <name>Goshen Kiel Telan</name>
+    </quote>
+    <quote>
       <description>"It just works."</description>
       <name>David Quoc Nguyen</name>
+    </quote>
+    <quote>
       <description>"In the beginning the game was created. This has made a lot of people confused and been widely regarded as a weird move."</description>
       <name>Ben Robertson</name>
     </quote>
@@ -70,18 +78,32 @@
     <credit>
       <person>Ben Robertson</person>
       <role>Narrative Designer</role>
+    </credit>
+    <credit>
       <person>David Quoc Nguyen</person>
       <role>Programmer</role>
+    </credit>
+    <credit>
       <person>Goshen Kiel Telan</person>
       <role>Sound Designer / Programmer</role>
+    </credit>
+    <credit>
       <person>Jackson Bloomfield</person>
       <role>Level Designer / 3D Animation</role>
+    </credit>
+    <credit>
       <person>James Radcliffe</person>
       <role>3D Artist / Materials</role>
+    </credit>
+    <credit>
       <person>Matt Coulter</person>
       <role>Lead Programmer</role>
+    </credit>
+    <credit>
       <person>Tony Lam</person>
       <role>Project Manager / Designer</role>
+    </credit>
+    <credit>
       <person>Yue Cao</person>
       <role>2D Artist / Sound Designer</role>
     </credit>
