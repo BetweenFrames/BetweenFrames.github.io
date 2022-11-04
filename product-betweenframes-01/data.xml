@@ -18,6 +18,15 @@
     </price>
   </prices>
 
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/Between_Frame
+      </link>
+    </social>
+  </socials>
+
   <description>
   Between Frames is a platform puzzle game using unique film-media based mechanics to tell the story of an old man's grief.
   </description>
@@ -43,18 +52,38 @@
   <!-- ================================================= -->
   <quotes>
     <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
+      <description>"There is no feeling more satisfying than watching a player have their eureka moment."</description>
+      <name>Jackson Bloomfield</name>
+      <description>"Three years of experience and study culminated into a tangible project. Except this time, I donned a pair of binoculars and a megaphone to work with."</description>
+      <name>Tony Lam</name>
+      <description>"What it feels like to chew 5 gum"</description>
+      <name>Goshen Kiel Telan</name>
+      <description>"It just works."</description>
+      <name>David Quoc Nguyen</name>
+      <description>"In the beginning the game was created. This has made a lot of people confused and been widely regarded as a weird move."</description>
+      <name>Ben Robertson</name>
     </quote>
   </quotes>
 
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
+      <person>Ben Robertson</person>
+      <role>Narrative Designer</role>
+      <person>David Quoc Nguyen</person>
+      <role>Programmer</role>
+      <person>Goshen Kiel Telan</person>
+      <role>Sound Designer / Programmer</role>
+      <person>Jackson Bloomfield</person>
+      <role>Level Designer / 3D Animation</role>
+      <person>James Radcliffe</person>
+      <role>3D Artist / Materials</role>
+      <person>Matt Coulter</person>
+      <role>Lead Programmer</role>
+      <person>Tony Lam</person>
+      <role>Project Manager / Designer</role>
+      <person>Yue Cao</person>
+      <role>2D Artist / Sound Designer</role>
     </credit>
   </credits>
 
